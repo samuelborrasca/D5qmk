@@ -14,4 +14,4 @@ The original is specifically meant for the 28-key [Zilpzalp](https://keeb.supply
 
 ![alt text][layoutd5] 
 
-[layoutd5]: https://github.com/samuelborrasca/D5akl/blob/main/D5samuel.png "layoutd5"
+[d5]: https://github.com/samuelborrasca/D5qmk/blob/main/d5.png "d5"
