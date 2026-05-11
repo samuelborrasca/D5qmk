@@ -12,6 +12,4 @@ The original is specifically meant for the 28-key [Zilpzalp](https://keeb.supply
 
 ## Layout
 
-![alt text][layoutd5] 
-
-[d5]: https://github.com/samuelborrasca/D5qmk/blob/main/d5.png "d5"
+![d5](https://github.com/samuelborrasca/D5qmk/blob/main/d5.png)
